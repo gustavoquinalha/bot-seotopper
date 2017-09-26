@@ -3,41 +3,41 @@ module.exports = {
     'node_modules/the-grid-flexbox/css/the-grid.min.css'
   ],
   head: {
-    title: 'Clinify',
+    title: 'SeoTopper',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, minimum-scale=1, maximum-scale=1, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Clinify intro' },
+      { hid: 'description', name: 'description', content: 'Complete SEO generator with all meta-tags including JSON-LD, build your Seo in seconds.' },
       { name: 'author', content: 'Helpy' },
       { name: 'robots', content: 'index/follow' },
       { name: 'googlebot', content: 'index/follow' },
       // google+
-      { itemprop: 'name', content: 'Clinify' },
-      { itemprop: 'description', content: 'Description Clinify' },
-      { itemprop: 'image', content: 'https://helpy.com.br/clinify/img/my-logo.png' },
+      { itemprop: 'name', content: 'SeoTopper' },
+      { itemprop: 'description', content: 'Complete SEO generator with all meta-tags including JSON-LD, build your Seo in seconds.' },
+      { itemprop: 'image', content: 'https://gustavoquinalha.github.io/seotopper/img/intro.png' },
       // facebook
       { property: 'og:type', content: 'website' },
-      { property: 'og:title', content: 'Clinify' },
-      { property: 'og:url', content: 'https://helpy.com.br/clinify/' },
-      { property: 'og:site_name', content: 'Clinify' },
-      { property: 'og:image', content: 'https://helpy.com.br/clinify/img/my-logo.png' },
-      { property: 'og:description', content: 'Description Clinify' },
+      { property: 'og:title', content: 'SeoTopper' },
+      { property: 'og:url', content: 'https://gustavoquinalha.github.io/seotopper/' },
+      { property: 'og:site_name', content: 'SeoTopper' },
+      { property: 'og:image', content: 'https://gustavoquinalha.github.io/seotopper/img/intro.png' },
+      { property: 'og:description', content: 'Complete SEO generator with all meta-tags including JSON-LD, build your Seo in seconds.' },
       { property: 'og:locale', content: 'pt_Br' },
       { property: 'fb:app_id', content: '122670998365518' },
       { property: 'fb:admins', content: '111111' },
       // twitter
       { name: 'twitter:card', content: 'Summary' },
-      { name: 'twitter:title', content: 'Clinify' },
-      { name: 'twitter:description', content: 'Clinify' },
-      { name: 'twitter:creator', content: 'https://helpy.com.br/clinify' },
-      { name: 'twitter:image', content: 'https://helpy.com.br/clinify/img/my-logo.png' },
+      { name: 'twitter:title', content: 'SeoTopper' },
+      { name: 'twitter:description', content: 'Complete SEO generator with all meta-tags including JSON-LD, build your Seo in seconds.' },
+      { name: 'twitter:creator', content: 'https://gustavoquinalha.github.io/seotopper/' },
+      { name: 'twitter:image', content: 'https://gustavoquinalha.github.io/seotopper/img/intro.png' },
       // android
       { name: 'msapplication-TileColor', content: '#0081FF' },
       { name: 'msapplication-TileImage', content: '/ms-icon-144x144.png' },
       { name: 'theme-color', content: '#0081FF' }
     ],
     link: [
-      { rel: 'sitemap', type: 'application/xml', content: 'https://helpy.com.br/clinify/sitemap.xml' },
+      { rel: 'sitemap', type: 'application/xml', content: 'https://gustavoquinalha.github.io/seotopper/sitemap.xml' },
       { rel: 'manifest', href: '/manifest.json' },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'apple-touch-icon', sizes: '57x57', href: '/icons/apple-icon-57x57.png' },
@@ -53,8 +53,8 @@ module.exports = {
       { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/icons/favicon-32x32.png' },
       { rel: 'icon', type: 'image/png', sizes: '96x96', href: '/icons/favicon-96x96.png' },
       { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/icons/favicon-16x16.png' },
-      { rel: 'base', href: 'https://helpy.com.br/clinify' },
-      { rel: 'canonical', href: 'https://helpy.com.br/clinify' }
+      { rel: 'base', href: 'https://gustavoquinalha.github.io/seotopper/' },
+      { rel: 'canonical', href: 'https://gustavoquinalha.github.io/seotopper/' }
     ],
     script: [{
       // src: 'https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js'
