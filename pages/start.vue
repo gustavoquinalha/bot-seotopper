@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="all">
     <menutop></menutop>
     <start></start>
   </div>
@@ -23,4 +23,7 @@
 
 <style lang="scss">
   // @import './assets/css/main.scss';
+  .all {
+    // background: #EBECF3;
+  }
 </style>
