@@ -88,33 +88,11 @@ code {
     display: none !important;
 }
 
-.hljs {
-    background: #222!important
-}
-
-.head {
-    min-height: 100vh!important;
-    width: 100%;
-    padding: 0!important;
-    text-align: center;
-}
-
-.head-box {
-    width: 400px;
-    max-width: 90%;
-}
-
-.head h1 {
-    font-size: 6em;
-    color: #222
-}
-
-.head p {
-    font-size: 1.7em;
-    color: rgba(34, 34, 34, 0.7)
-}
 
 .size {
     width: 1200px;
     max-width: 90%;
+}
+.margin {
+  margin: 0 auto
 }

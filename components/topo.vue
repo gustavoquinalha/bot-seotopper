@@ -1,7 +1,7 @@
 <template>
   <div>
     <header>
-        <div class="size container justify-content-center align-items-center">
+        <div class="size margin container justify-content-center align-items-center">
           <div class="">
             teste
           </div>
