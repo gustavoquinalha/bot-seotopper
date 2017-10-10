@@ -148,6 +148,7 @@ export default {
 .title-intro {
   padding-top: 50px;
   width: 500px;
+  max-width: 90%;
   margin: 0 auto;
   text-align: center;
   h1 {
