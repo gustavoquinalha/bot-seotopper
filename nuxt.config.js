@@ -8,7 +8,7 @@ module.exports = {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, minimum-scale=1, maximum-scale=1, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Complete SEO generator with all meta-tags including JSON-LD, build your Seo in seconds.' },
-      { name: 'author', content: 'Helpy' },
+      { name: 'author', content: 'Gustavo Quinalha' },
       { name: 'robots', content: 'index/follow' },
       { name: 'googlebot', content: 'index/follow' },
       // google+
@@ -58,8 +58,7 @@ module.exports = {
     ],
     script: [{
       // src: 'https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js'
-    }],
-
+    }]
   },
 
   loading: { color: '#00ce8c', height: '5px' },

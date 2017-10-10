@@ -1,15 +1,19 @@
 <template>
   <div>
   <topo></topo>
+  <app></app>
+  <rodape></rodape>
   </div>
 </template>
 
 <script>
   import topo from '@/components/topo';
+  import app from '@/components/app';
+  import rodape from '@/components/footer';
 
   export default {
     components: {
-      topo
+      topo, app, rodape
     },
     data() {
       return {
