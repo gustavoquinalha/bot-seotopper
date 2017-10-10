@@ -1,4 +1,7 @@
 module.exports = {
+  router: {
+    base: '/bot-seotopper/'
+  },
   css: [
     'node_modules/the-grid-flexbox/css/the-grid.min.css'
   ],
