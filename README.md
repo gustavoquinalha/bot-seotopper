@@ -1,4 +1,4 @@
-# clinify-intro
+# SeoTopper
 
 > Nuxt.js project
 
@@ -17,17 +17,11 @@ $ npm start
 
 # generate static project
 $ npm run generate
+$ npm run deploy
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+update nuxt.config.js
 
-우선 npm run build를 실행할 수 있도록, Heroku에게 프로젝트의 devDependencies 를 설치하도록 합니다:
-
-
-heroku config:set NPM_CONFIG_PRODUCTION=false
-
-또한 어플리케이션에 0.0.0.0 포트를 listen 하도록 하고, 프로덕션 모드로 기동하도록 합니다:
-
-
-heroku config:set HOST=0.0.0.0
-heroku config:set NODE_ENV=production
+``` bash
+base: '/bot-seotopper/'
+```
