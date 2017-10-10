@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 93 93.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fffff6;
+      }
+
+      .cls-2 {
+        fill: #ffffc3;
+      }
+
+      .cls-3 {
+        fill: #00ce8c;
+      }
+
+      .cls-4 {
+        opacity: 0.6;
+      }
+
+      .cls-5 {
+        fill: #ff3246;
+      }
+
+      .cls-6 {
+        fill: #64375a;
+      }
+    </style>
+  </defs>
+  <title>Prancheta 6 cópia 19</title>
+  <g id="icons">
+    <g>
+      <circle class="cls-1" cx="46.5" cy="47" r="28.63" transform="translate(-19.61 46.64) rotate(-45)"/>
+      <path class="cls-2" d="M24.74,25.21C12.4,37.57,12,57.16,23.8,69s31.4,11.34,43.74-1Z"/>
+      <ellipse class="cls-3" cx="48.05" cy="45.53" rx="22.43" ry="28.63" transform="translate(-18.12 47.37) rotate(-45.05)"/>
+      <g class="cls-4">
+        <path class="cls-5" d="M28.71,29.39A25.2,25.2,0,0,0,64.35,65Z"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M69.12,24.37A32,32,0,1,0,78.5,47,31.79,31.79,0,0,0,69.12,24.37ZM66.74,67.24a28.63,28.63,0,1,1,0-40.49A28.54,28.54,0,0,1,66.74,67.24Z"/>
+        <path class="cls-6" d="M40.19,39.24a1,1,0,0,0-1.45,1.45L62.85,64.8a1,1,0,0,0,1.45-1.45Z"/>
+        <path class="cls-6" d="M30.15,29.19a1,1,0,1,0-1.45,1.45l5.84,5.84A1,1,0,1,0,36,35Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
